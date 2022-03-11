@@ -1,0 +1,25 @@
+  height: 40px;
+  padding: 1em;
+  color: #02000A;
+}
+
+button {
+  margin-bottom: 1em;
+  border-radius: 5px;
+}
+.btn-answer {
+  background-color: #E2A8FE;
+  color: #02000A;
+  letter-spacing: 3;
+  padding: 1em 0.5em;
+}
+.btn-clear {
+  background-color: #fff;
+  color: #02000A;
+  border: 2px solid #02000A;
+  padding: 0.9em 0.5em;
+}
+span {
+  border-bottom: 2px solid black;
+  padding: 6px;
+}
