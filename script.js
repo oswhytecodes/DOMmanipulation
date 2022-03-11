@@ -21,7 +21,7 @@ let biggerNum = () => {
   if (num1.value > num2.value) {
     num1.style.backgroundColor = "#af77d5";
   } else if (num2.value > num1.value) {
-    num2.style.backgroundColor = "#af77d55";
+    num2.style.backgroundColor = "#af77d5";
   }
 };
 btnAnswer.addEventListener("click", biggerNum);
