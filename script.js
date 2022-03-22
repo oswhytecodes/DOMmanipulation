@@ -20,7 +20,7 @@ const biggerNum = () => {
 
   if (numeroUno > numeroDos) {
     box1.style.backgroundColor = "#af77d5";
-  } else if (numeroUno > numeroDos) {
+  } else if (numeroDos > numeroUno) {
     box2.style.backgroundColor = "#af77d5";
   } else {
     return "";
